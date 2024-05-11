@@ -30,7 +30,7 @@ python main.py
 4. Open the browser and go to `http://localhost:3000`
 
 ## Contributors
-- [Nguyen Truong Danh](team leader)
+- Nguyen Truong Danh
 - [Vi Anh Quan](member)
 
 
